@@ -1,6 +1,8 @@
 #containerlogo{
     background-color: rgb(23, 129, 199);
-    height: 120px;               
+    height: 120px;
+    background-image:url(img\pattern.png);
+    background-repeat: repeat-x;            
 }
 #imglogo{
     height: 20%;
@@ -18,4 +20,6 @@
 #fontifoto{
     font-size: smaller;
 }
-thead{}
+h4{
+    color: gray;
+}
